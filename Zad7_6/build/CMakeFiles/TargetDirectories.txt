@@ -1,0 +1,3 @@
+C:/Users/Kamil/Desktop/CPP/Zad7_6/build/CMakeFiles/ZadClassKcpp.dir
+C:/Users/Kamil/Desktop/CPP/Zad7_6/build/CMakeFiles/edit_cache.dir
+C:/Users/Kamil/Desktop/CPP/Zad7_6/build/CMakeFiles/rebuild_cache.dir
